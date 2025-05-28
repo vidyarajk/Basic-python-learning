@@ -1,1 +1,2 @@
-# Basic-python-learning
+# Basic-python-learnin
+functions, loops etc...
