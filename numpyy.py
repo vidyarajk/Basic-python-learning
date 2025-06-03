@@ -26,3 +26,6 @@ print(np.ones((3,5)))
 
 ### identity matrix
 print(np.eye(3))
+
+### zero matrix
+print(np.zeros((3,3)))
